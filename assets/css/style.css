@@ -12,7 +12,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Open Sans', sans-serif;
   line-height: 1.3;
 
 }
@@ -35,7 +34,7 @@ p {
 
   font-size: 25px;
   text-align: center;
-  font-family: 'Marck Script', sans-serif;
+  /* font-family: 'Marck Script', sans-serif; */
 }
 
 
@@ -59,7 +58,9 @@ p {
 
 .ContactContainer {
 
-  width: 500px
+  width: 500px;
+  background-position: center;
+  
 }
 
 
