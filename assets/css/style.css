@@ -62,9 +62,11 @@ p {
   background-position: center;
   
 }
+
   .footer-bottom {
+    font-size: 10px;
     width: 100vw;
-    padding: 20px;
+    padding: 10px;
     padding-bottom: 10px;
     text-align: center;
     background-color: antiquewhite;
@@ -72,5 +74,10 @@ p {
 
 }
 
+table {
+
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  align-content: center;
+}
 
 
